@@ -1,9 +1,8 @@
 require('dotenv').config()
-const { PORT } = require('./config')
 const express = require('express');
 const helmet = require('helmet');
 const cors = require('cors');
-const { CLIENT_ORIGIN } = require('./config');
+const { PORT, CLIENT_ORIGIN } = require('./config');
 const morgan = require('morgan');
 const usersRouter = require(`./users/usersRouter`)
 const dogRouter = require('./dogs/dogRouter');
