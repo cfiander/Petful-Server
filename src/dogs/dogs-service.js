@@ -64,7 +64,7 @@ dogQ.enqueue(
     imageURL:
       'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2acc139b-8d65-4eb7-8788-fad993edf59a/dbnvmn1-268a9bcc-6a67-4fe2-af7e-3c598b20426c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJhY2MxMzliLThkNjUtNGViNy04Nzg4LWZhZDk5M2VkZjU5YVwvZGJudm1uMS0yNjhhOWJjYy02YTY3LTRmZTItYWY3ZS0zYzU5OGIyMDQyNmMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bMfe57dNz4n-Y0jSSdEY27plESe_900Z1VJu3nziW30',
     imageDescription:
-      `Once had 2756 instagram followers before deleting social media, to quote 'focus on recenetering' `,
+      `Once had 2756 instagram followers before deleting social media, to quotem, 'focus on recentering' `,
     name: 'Henry',
     sex: 'Male',
     age: 7,
